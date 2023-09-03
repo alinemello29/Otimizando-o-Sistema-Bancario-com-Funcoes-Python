@@ -14,3 +14,8 @@ Neste desafio, você terá a oportunidade de otimizar o Sistema Bancário previa
 
 
 ---------------------
+VIDEO
+--------------------
+
+
+[Screen recording 2023-09-03 18.31.01.webm](https://github.com/alinemello29/Otimizando-o-Sistema-Bancario-com-Funces-Python/assets/109696840/97c32c20-3ad1-4a84-b79d-32083960251c)
